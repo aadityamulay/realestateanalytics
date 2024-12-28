@@ -1,0 +1,31 @@
+2024-12-27 17:57:10,801 - INFO - Starting Real Estate Analytics program
+2024-12-27 17:57:10,801 - INFO - Generating 500 properties
+2024-12-27 17:57:10,817 - INFO - Generating market trends
+2024-12-27 17:57:10,817 - INFO - Inserting 500 properties and 70 market trends
+2024-12-27 17:57:14,924 - ERROR - Database Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2024-12-27 17:57:14,924 - INFO - Starting analytics calculations
+2024-12-27 17:57:18,886 - INFO - Analytics completed
+2024-12-27 17:57:18,922 - INFO - Program completed successfully2024-12-27 17:59:41,967 - INFO - Starting Real Estate Analytics program
+2024-12-27 17:59:41,975 - INFO - Generating 500 properties
+2024-12-27 17:59:41,992 - INFO - Generating market trends
+2024-12-27 17:59:41,992 - INFO - Inserting 500 properties and 70 market trends
+2024-12-27 17:59:46,077 - ERROR - Database Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2024-12-27 17:59:46,078 - INFO - Starting analytics calculations
+2024-12-27 17:59:52,343 - INFO - Analytics completed
+2024-12-27 17:59:52,415 - INFO - Program completed successfully
+2024-12-27 18:07:53,820 - INFO - Starting Real Estate Analytics program
+2024-12-27 18:07:53,820 - INFO - Generating 500 properties
+2024-12-27 18:07:53,840 - INFO - Generating market trends
+2024-12-27 18:07:53,840 - INFO - Inserting 500 properties and 70 market trends
+2024-12-27 18:07:57,920 - ERROR - Database Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2024-12-27 18:07:57,921 - INFO - Starting analytics calculations
+2024-12-27 18:08:03,400 - INFO - Analytics completed
+2024-12-27 18:08:03,453 - INFO - Program completed successfully
+2024-12-28 10:42:02,276 - INFO - Starting Real Estate Analytics program
+2024-12-28 10:42:02,277 - INFO - Generating 500 properties
+2024-12-28 10:42:02,284 - INFO - Generating market trends
+2024-12-28 10:42:02,284 - INFO - Inserting 500 properties and 70 market trends
+2024-12-28 10:42:06,397 - ERROR - Database Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+2024-12-28 10:42:06,398 - INFO - Starting analytics calculations
+2024-12-28 10:42:10,969 - INFO - Analytics completed
+2024-12-28 10:42:10,989 - INFO - Program completed successfully
